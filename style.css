@@ -1,0 +1,11 @@
+body{
+  background-color: lightblue;
+}
+
+a{
+  color: blue;
+}
+
+p, h1, h2{
+  text-align: center
+}
